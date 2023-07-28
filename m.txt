@@ -1,0 +1,28 @@
+    PoliLista* P = new PoliLista();
+    PoliLista* P2 = new PoliLista();
+    PoliLista* P3 = new PoliLista();
+    PoliLista* P4 = new PoliLista();
+    //	PoliLista p;
+
+    P->poner_termino(2, 3);
+    P->poner_termino(4, 7);
+    cout << "Lista 1 ";
+    P->mostrar_lista();
+
+    P2->poner_termino(5, 4);
+    P2->poner_termino(2, 1);
+    cout << "Lista 2 ";
+    P2->mostrar_lista();
+
+    P3 = P->suma(P, P2);
+    cout << "Lista 3 ";
+    P3->mostrar_lista();
+
+    P4->poner_termino(4, 7);
+    P4->poner_termino(7, 3);
+    P4->poner_termino(2, 1);
+    cout << "Lista 4 ";
+    P4->mostrar_lista();
+
+
+///////////

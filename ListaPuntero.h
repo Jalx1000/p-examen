@@ -31,7 +31,7 @@ public:
 	void inserta_ultimo(int);
 	void suprime(NodoL*);
 	void modifica(NodoL*, int);
-	string toStr();
+	string mostrarLista();
 };
 #endif
 

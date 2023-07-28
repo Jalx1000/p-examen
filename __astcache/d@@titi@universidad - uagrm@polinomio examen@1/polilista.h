@@ -25,10 +25,13 @@ class PoliLista
     int grado();
     int numero_terminos();
 
+    void sumarPols(PoliLista* p1, PoliLista* pr);
+	PoliLista* suma(PoliLista* otro,PoliLista* P2);
+
     void derivada();
     void mostrar_lista();
-	void mostrar_pol();
-	void mostrar_pol2();
+    string mostrar_pol();
+    void mostrar_pol2();
     string mostrar_pol3();
     float evaluar(int x);
 };

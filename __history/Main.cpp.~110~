@@ -1,0 +1,67 @@
+#include <iostream>
+#include <tchar.h>
+
+#include <iostream>
+#include <string>
+#include <iostream>
+#include <cstdio>
+#include "PoliLista.h"
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+    PoliLista* P = new PoliLista();
+    PoliLista* P2 = new PoliLista();
+    PoliLista* P3 = new PoliLista();
+    //	PoliLista p;
+
+    P->poner_termino(2, 3);
+    P->poner_termino(4, 7);
+	cout << "Lista 1 ";
+    P->mostrar_lista();
+
+    P2->poner_termino(5, 4);
+	P2->poner_termino(2, 1);
+	cout << "Lista 2 ";
+	P2->mostrar_lista();
+
+	P3 = P->suma(P, P2);
+	cout << "Lista 3 ";
+	P3->mostrar_lista();
+
+    //	P.poner_termino(2, 7);
+
+    /*
+		no funciona
+		derivada
+		coeficiente
+
+	*/
+    //coef, exp
+    /*	P->poner_termino(2, 4);
+	P->poner_termino(5, 7);
+	P->poner_termino(4, 1);
+	 */
+
+    //2(2)^4+5(2)^7+4(2)^1
+    //2x^4+5x^7+4x^1
+    //	P->derivada();
+
+    /*
+    cout << "El polinomio de entrada es: " + P->mostrar_pol();
+	string entrada;
+	cout << "Quieres evaluar el polinomio? s/n";
+	cin >> entrada ;
+	if (entrada == "s") {
+		int numero;
+		cout << "Introduce valor a evaluar: ";
+		cin >> numero;
+		cout << "El resultado del polinomio es: " << P->evaluar(numero) << endl;
+	}
+	*/
+
+    P->mostrar_lista();
+
+    system("PAUSE");
+    return 0;
+}
+

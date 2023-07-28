@@ -1,0 +1,40 @@
+#include <iostream>
+#include <tchar.h>
+
+#include <iostream>
+#include <string>
+#include <iostream>
+#include <cstdio>
+#include "PoliLista.h"
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+    PoliLista* P = new PoliLista();
+    //	P.poner_termino(2, 7);
+
+    //coef, exp
+    P->poner_termino(2, 4);
+    P->poner_termino(5, 7);
+    P->poner_termino(4, 1);
+
+    //2(2)^4+5(2)^7+4(2)^1
+    //2x^4+5x^7+4x^1
+    //	P->derivada();
+
+    cout << "El polinomio de entrada es: " + P->mostrar_pol();
+    string entrada;
+    cout << "Quieres evaluar el polinomio? s/n";
+    cin >> entrada;
+    if (entrada == "s" || "S" || '10') {
+        int numero;
+        cout << "Introduce valor a evaluar: ";
+        cin >> numero;
+        cout << "El resultado del polinomio es: " << P->evaluar(numero) << endl;
+    }
+
+    P->mostrar_lista();
+
+    system("PAUSE");
+    return 0;
+}
+
