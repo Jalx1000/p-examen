@@ -1,0 +1,20 @@
+//---------------------------------------------------------------------------
+
+#ifndef ConjuntoLH
+#define ConjuntoLH
+//---------------------------------------------------------------------------
+#include <iostream>
+#include <cmath>
+#include <string>
+#include "ListaPuntero.h"
+
+using namespace std;
+
+class ConL {
+	private:
+	ListaP* elem;
+	public:
+};
+
+#endif
+

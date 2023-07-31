@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/07/27 14:09:57.725,=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/27 14:09:57.740,=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2023/07/27 14:11:56.292,=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/07/27 14:12:05.398,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\PoliLista.cpp=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/07/27 14:12:05.398,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\PoliLista.h=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/07/27 14:12:45.925,=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/07/27 14:12:57.354,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\ListaPuntero.h=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/07/27 14:12:57.354,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\ListaPuntero.cpp=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/07/27 14:13:24.148,C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Main.cpp=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2023/07/27 14:17:18.451,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\POLPCH1.h=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/27 14:17:18.500,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Main.cpp=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Main.cpp</Transaction>
+    <Transaction>2023/07/27 14:17:18.516,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\PoliLista.h=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\PoliLista.h</Transaction>
+    <Transaction>2023/07/27 14:17:18.516,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\PoliLista.cpp=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\PoliLista.cpp</Transaction>
+    <Transaction>2023/07/27 14:17:18.532,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\ListaPuntero.h=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\ListaPuntero.h</Transaction>
+    <Transaction>2023/07/27 14:17:18.532,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\ListaPuntero.cpp=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\ListaPuntero.cpp</Transaction>
+    <Transaction>2023/07/27 14:17:18.533,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\POL.cbproj=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

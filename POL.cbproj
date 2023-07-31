@@ -109,6 +109,16 @@
         <BCC_UseClassicCompiler>false</BCC_UseClassicCompiler>
     </PropertyGroup>
     <ItemGroup>
+        <CppCompile Include="ConjuntoL.cpp">
+            <VirtualFolder>{678FFF46-DCCE-47E9-A2B1-0D18DB13E0FD}</VirtualFolder>
+            <DependentOn>ConjuntoL.h</DependentOn>
+            <BuildOrder>5</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="CSMemoria.cpp">
+            <VirtualFolder>{72344DCB-C2F6-4C6B-8364-A790CF2ABF6D}</VirtualFolder>
+            <DependentOn>CSMemoria.h</DependentOn>
+            <BuildOrder>4</BuildOrder>
+        </CppCompile>
         <CppCompile Include="ListaPuntero.cpp">
             <VirtualFolder>{2A7F63B9-15AD-413C-9AE7-C22E47FB2129}</VirtualFolder>
             <DependentOn>ListaPuntero.h</DependentOn>
@@ -116,6 +126,16 @@
         </CppCompile>
         <CppCompile Include="Main.cpp">
             <BuildOrder>1</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="MatrizV.cpp">
+            <VirtualFolder>{A1E8059F-BD36-40B0-8627-85FDB84EBC60}</VirtualFolder>
+            <DependentOn>MatrizV.h</DependentOn>
+            <BuildOrder>6</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="PilaL.cpp">
+            <VirtualFolder>{D5169195-CECB-493A-95CF-32D68B438216}</VirtualFolder>
+            <DependentOn>PilaL.h</DependentOn>
+            <BuildOrder>7</BuildOrder>
         </CppCompile>
         <CppCompile Include="PoliLista.cpp">
             <VirtualFolder>{98558BD5-17A2-40E4-93F6-7BB326B053C2}</VirtualFolder>
@@ -126,6 +146,21 @@
             <BuildOrder>0</BuildOrder>
             <PCH>true</PCH>
         </PCHCompile>
+        <CppCompile Include="VCola.cpp">
+            <VirtualFolder>{E8724856-3464-4303-BDFE-DF275B698C31}</VirtualFolder>
+            <DependentOn>VCola.h</DependentOn>
+            <BuildOrder>8</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="VCola2.cpp">
+            <VirtualFolder>{E8724856-3464-4303-BDFE-DF275B698C31}</VirtualFolder>
+            <DependentOn>VCola2.h</DependentOn>
+            <BuildOrder>9</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="VCola3.cpp">
+            <VirtualFolder>{E8724856-3464-4303-BDFE-DF275B698C31}</VirtualFolder>
+            <DependentOn>VCola3.h</DependentOn>
+            <BuildOrder>10</BuildOrder>
+        </CppCompile>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
@@ -150,8 +185,13 @@
                     <ProjectProperties Name="IndexFiles">False</ProjectProperties>
                 </ProjectProperties>
                 <VFOLDERS>
-                    <VFOLDER ID="{2A7F63B9-15AD-413C-9AE7-C22E47FB2129}" name="Lista"/>
-                    <VFOLDER ID="{98558BD5-17A2-40E4-93F6-7BB326B053C2}" name="Polinomio"/>
+                    <VFOLDER ID="{72344DCB-C2F6-4C6B-8364-A790CF2ABF6D}" name="1-CSMemoria"/>
+                    <VFOLDER ID="{2A7F63B9-15AD-413C-9AE7-C22E47FB2129}" name="2-Lista"/>
+                    <VFOLDER ID="{98558BD5-17A2-40E4-93F6-7BB326B053C2}" name="3-Polinomio"/>
+                    <VFOLDER ID="{678FFF46-DCCE-47E9-A2B1-0D18DB13E0FD}" name="4-Conjunto"/>
+                    <VFOLDER ID="{A1E8059F-BD36-40B0-8627-85FDB84EBC60}" name="5-Matriz"/>
+                    <VFOLDER ID="{D5169195-CECB-493A-95CF-32D68B438216}" name="6-Pila"/>
+                    <VFOLDER ID="{E8724856-3464-4303-BDFE-DF275B698C31}" name="7-Cola"/>
                 </VFOLDERS>
             </CPlusPlusBuilder.Personality>
             <Deployment Version="4">

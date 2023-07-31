@@ -7,40 +7,28 @@
 #include <iostream>
 #include <cstdio>
 #include "PoliLista.h"
+#include "CSMemoria.h"
+#include "PilaL.h"
+#include "VCola2.h"
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	PoliLista* P = new PoliLista();
-	PoliLista* P2 = new PoliLista();
-	//	P.poner_termino(2, 7);
+    VCola2* cola2 = new VCola2;
 
-	//coef, exp
-	P->poner_termino(2,3);
-	P->poner_termino(4,7);
-	P->mostrar_pol();
-	P->mostrar_lista();
+    int pri = 10;
+    int sec = 20;
+    int ter = 30;
+	int cuar = 40;
+	cola2->poner2(pri);
+	cola2->poner2(sec);
+	cola2->poner2(ter);
+//	cola2->mostrar2();
+	cola2->sacar2(ter);
+//	cola2->mostrar2();
+//	cola2->poner2(cuar);
+	cola2->mostrar2();
 
-	P2->poner_termino(2,3);
-	P2->poner_termino(4,3);
-	P2->mostrar_pol();
-	P2->mostrar_lista();
-
-	//2(2)^4+5(2)^7+4(2)^1
-    //2x^4+5x^7+4x^1
-    //	P->derivada();
-
-//    cout << "El polinomio de entrada es: " + P->mostrar_pol();
-	char entrada;
-	cout << "Quieres evaluar el polinomio? s/n";
-	cin >> entrada;
-    if (entrada == 115 || entrada == 83 || entrada == 10) {
-        int numero;
-        cout << "Introduce valor a evaluar: ";
-        cin >> numero;
-		cout << "El resultado del polinomio es: " << std::setprecision(10) <<P->evaluar(numero) << endl;
-    }
-
-    P->mostrar_lista();
+//	cout<<cola2->primero2()<<endl;
 
     system("PAUSE");
     return 0;
