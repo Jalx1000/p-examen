@@ -31,16 +31,17 @@
     <Transaction>2023/07/30 16:13:39.000.122,=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp</Transaction>
     <Transaction>2023/07/30 16:19:47.000.346,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\PilaL.cpp</Transaction>
     <Transaction>2023/07/30 16:19:47.000.346,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.h=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\PilaL.h</Transaction>
-    <Transaction>2023/07/30 19:52:23.198,=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp</Transaction>
-    <Transaction>2023/07/30 20:01:14.348,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\VCola.h=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.h</Transaction>
-    <Transaction>2023/07/30 20:01:14.348,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\VCola.cpp=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp</Transaction>
-    <Transaction>2023/07/30 20:01:41.268,=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp</Transaction>
-    <Transaction>2023/07/30 20:01:53.168,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\VCola2.cpp=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp</Transaction>
-    <Transaction>2023/07/30 20:01:53.168,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\VCola2.h=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.h</Transaction>
-    <Transaction>2023/07/30 21:52:12.236,=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp</Transaction>
-    <Transaction>2023/07/30 21:52:21.437,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\VCola3.cpp=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp</Transaction>
-    <Transaction>2023/07/30 21:52:21.437,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\VCola3.h=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.h</Transaction>
-  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <Transaction>2023/07/30 19:52:23.000.198,=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp</Transaction>
+    <Transaction>2023/07/30 20:01:14.000.348,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\VCola.h=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.h</Transaction>
+    <Transaction>2023/07/30 20:01:14.000.348,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\VCola.cpp=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp</Transaction>
+    <Transaction>2023/07/30 20:01:41.000.268,=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp</Transaction>
+    <Transaction>2023/07/30 20:01:53.000.168,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\VCola2.cpp=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp</Transaction>
+    <Transaction>2023/07/30 20:01:53.000.168,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\VCola2.h=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.h</Transaction>
+    <Transaction>2023/07/30 21:52:12.000.236,=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp</Transaction>
+    <Transaction>2023/07/30 21:52:21.000.437,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\VCola3.cpp=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.cpp</Transaction>
+    <Transaction>2023/07/30 21:52:21.000.437,D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\VCola3.h=D:\titi\UNIVERSIDAD - UAGRM\POLINOMIO EXAMEN\1\Unit1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
     <VirtualFolder ID="{72344DCB-C2F6-4C6B-8364-A790CF2ABF6D}"/>
     <File Path="CSMemoria.cpp"/>
     <File Path="CSMemoria.cpp"/>
